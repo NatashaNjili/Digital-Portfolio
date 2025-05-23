@@ -20,7 +20,7 @@ Take a look around to see how far I've come! 💕
 ## 💼 Career Counselling
 
 ### 📁 Evidence:
-🔗 (./Evidance/Carrer development.png)
+🔗 [Career Counceling](Evidance/Carrer%20development.png)
 
 ### ✨ Reflection (STAR):
 S – Situation:
@@ -40,7 +40,7 @@ As a result, I gained a clearer vision of my career path as a software developer
 ## 🛠️ Skills & Interests
 
 ### 📁 Evidence:
-🔗 (./Evidance/skills and i nterest.png)
+🔗 [skills](Evidance/skills%20and&20i%20nterest.png)
 
 ### ✨ Reflection (STAR):
 S – Situation:
@@ -60,7 +60,7 @@ This process helped me see how my interests and skills connect with my career pa
 ## 🌈 Personality Assessment
 
 ### 📁 Evidence:
-🔗 (./Evidance/Personality assessment.png)
+🔗 [Personal Assesment](Evidance/Personality%20assessment.png)
 
 ### ✨ Reflection (STAR):
 S – Situation:
@@ -80,7 +80,7 @@ I now better understand my working style and how it fits into a team or company 
 ## 📄 CV Creation 
 
 ### 📁 Evidence:
-🔗 (./Evidance/Create Cv.png)
+🔗 [Cv creation](Evidance/Create%20Cv.png)
 
 ### ✨ Reflection (STAR):
 S – Situation:
@@ -100,7 +100,8 @@ I now have a well-structured and professional CV that truly represents me. I fee
 ## 📬 CV Submission
 
 ### 📁 Evidence:
-🔗 [ CV Submission](Evidance/Cv submission.png)
+🔗 [ CV Submission](Evidance/Cv%20submission.png)
+
 🔗 [ CV ](Evidance/myCv.pdf)
 
 ### ✨ Reflection (STAR):
