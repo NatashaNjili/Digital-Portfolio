@@ -100,7 +100,7 @@ I now have a well-structured and professional CV that truly represents me. I fee
 ## 📬 CV Submission
 
 ### 📁 Evidence:
-🔗 [ CV Submission](./Evidance/Cv submission.png)
+🔗 [ CV Submission](Evidance/Cv submission.png)
 🔗 [ CV ](Evidance/myCv.pdf)
 
 ### ✨ Reflection (STAR):
